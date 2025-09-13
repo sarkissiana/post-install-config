@@ -11,9 +11,6 @@ This repository demonstrates the **post-installation configuration** of the open
 
 ---
 
-## 🎥 Video Demonstration  
-📺 [How To Configure osTicket After Installation](#)  
-*(Add your YouTube or video link here)*  
 
 ---
 
@@ -47,29 +44,38 @@ This repository demonstrates the **post-installation configuration** of the open
 ## ⚙️ Configuration Steps  
 
 ### 1. Configure Roles  
-- Navigate to **Admin Panel → Agents → Roles**.  
-- Create roles to define what agents can/can’t do.  
+- Configure Roles (for grouping permissions)
+Admin Panel -> Agents -> Roles
+Supreme Admin
 
-📸 **Screenshot:**  
-![Roles Configuration](images/step1_roles.png)  
+
+<img width="1916" height="1073" alt="Screenshot 2025-09-13 112752" src="https://github.com/user-attachments/assets/fecc9a5e-8199-4860-b3f4-ff3aa44de11c" />
+<img width="1943" height="1076" alt="Screenshot 2025-09-13 113153" src="https://github.com/user-attachments/assets/1e5cf7af-26bf-462f-8463-e71d4af57ff7" />
+
+
 
 ---
 
 ### 2. Configure Departments  
 - Go to **Admin Panel → Agents → Departments**.  
-- Example: IT Support, Customer Service, HR Help Desk.  
+- Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+SysAdmins
+
 
 📸 **Screenshot:**  
-![Departments Configuration](images/step2_departments.png)  
+<img width="1923" height="1080" alt="Screenshot 2025-09-13 113544" src="https://github.com/user-attachments/assets/29dafcc6-7301-48f5-956f-655d016c609d" />
+
 
 ---
 
 ### 3. Configure Teams  
 - Go to **Admin Panel → Agents → Teams**.  
 - Teams can include members from multiple departments.  
+- Online Banking
 
 📸 **Screenshot:**  
-![Teams Configuration](images/step3_teams.png)  
+<img width="1916" height="1080" alt="Screenshot 2025-09-13 113845" src="https://github.com/user-attachments/assets/4d133214-997b-43af-9c35-fdab7490620f" />
+ 
 
 ---
 
@@ -78,25 +84,34 @@ This repository demonstrates the **post-installation configuration** of the open
 - Check “**Require registration/login to create tickets**” → **Disable** (if you want open ticketing).  
 
 📸 **Screenshot:**  
-![User Settings](images/step4_user_settings.png)  
+<img width="1916" height="1080" alt="Screenshot 2025-09-13 114523" src="https://github.com/user-attachments/assets/00289bdb-cf15-47f3-b681-48cefb720cab" />
+ 
 
 ---
 
 ### 5. Configure Agents (Help Desk Staff)  
 - Go to **Admin Panel → Agents → Add New**.  
-- Assign to a Department, Role, and Team.  
+- Assign to a Department, Role, and Team.
+Jane (Dept: SysAdmins)
+John (Dept: Support)
+  
 
 📸 **Screenshot:**  
-![Agents Setup](images/step5_agents.png)  
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 115004" src="https://github.com/user-attachments/assets/89e3ec62-4441-4e5f-a72a-374ce8eba334" />
+ 
 
 ---
 
 ### 6. Configure Users (End Users/Clients)  
 - Switch to the **Agent Panel → Users → Add New**.  
-- These are the people who will submit tickets.  
+- These are the people who will submit tickets.
+Karen
+
+
 
 📸 **Screenshot:**  
-![Users Setup](images/step6_users.png)  
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 115337" src="https://github.com/user-attachments/assets/41c4065d-d387-4844-aff1-5154366d7c07" />
+
 
 ---
 
