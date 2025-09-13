@@ -73,7 +73,7 @@ SysAdmins
 - Teams can include members from multiple departments.  
 - Online Banking
 
-📸 **Screenshot:**  
+ 
 <img width="1916" height="1080" alt="Screenshot 2025-09-13 113845" src="https://github.com/user-attachments/assets/4d133214-997b-43af-9c35-fdab7490620f" />
  
 
@@ -83,7 +83,7 @@ SysAdmins
 - Go to **Admin Panel → Settings → User Settings**.  
 - Check “**Require registration/login to create tickets**” → **Disable** (if you want open ticketing).  
 
-📸 **Screenshot:**  
+
 <img width="1916" height="1080" alt="Screenshot 2025-09-13 114523" src="https://github.com/user-attachments/assets/00289bdb-cf15-47f3-b681-48cefb720cab" />
  
 
@@ -96,7 +96,7 @@ Jane (Dept: SysAdmins)
 John (Dept: Support)
   
 
-📸 **Screenshot:**  
+  
 <img width="1920" height="1080" alt="Screenshot 2025-09-13 115004" src="https://github.com/user-attachments/assets/89e3ec62-4441-4e5f-a72a-374ce8eba334" />
  
 
@@ -109,7 +109,7 @@ Karen
 
 
 
-📸 **Screenshot:**  
+ 
 <img width="1920" height="1080" alt="Screenshot 2025-09-13 115337" src="https://github.com/user-attachments/assets/41c4065d-d387-4844-aff1-5154366d7c07" />
 
 
@@ -122,21 +122,25 @@ Karen
   - SEV-B (24/7, 4-hour response, 8-hour resolution).  
   - SEV-C (Business hours, 8-hour response, 24-hour resolution).  
 
-📸 **Screenshot:**  
-![SLA Setup](images/step7_sla.png)  
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 115804" src="https://github.com/user-attachments/assets/ebdb762e-a373-49a9-8c4b-5cb783507b64" />
+
 
 ---
 
 ### 8. Configure Help Topics  
 - Go to **Admin Panel → Manage → Help Topics**.  
 - Examples:  
-  - Business Critical Outage  
-  - Personal Computer Issues  
-  - Equipment Request  
-  - Password Reset  
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
 
-📸 **Screenshot:**  
-![Help Topics](images/step8_help_topics.png)  
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 120144" src="https://github.com/user-attachments/assets/1ed7a959-7f7f-4b12-aca4-707042ab21db" />
+
 
 ---
 
